@@ -8,7 +8,7 @@
 
 4.LCD: https://wokwi.com/projects/334978799543255635<br>
 
-5. https://wokwi.com/projects/334980150211904084 servo without potentiometer<br>
+5. https://wokwi.com/projects/334980150211904084 servo <br>
 
 6. https://wokwi.com/projects/334980718148977235 with potentiometer<br>
 
