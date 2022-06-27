@@ -2,6 +2,10 @@
 
 1.Arduino LED: https://wokwi.com/projects/334977439580029522 <br>
 
+OUTPUT:
+![image](https://user-images.githubusercontent.com/97939491/175927587-b55dc665-d89e-41c1-bdbe-0c858f10168d.png)
+
+
 2.Arduino 3 LED: https://wokwi.com/projects/334977067829428819<br>
 
 3.Arduino RGB LED: https://wokwi.com/projects/334977870850949716<br>
