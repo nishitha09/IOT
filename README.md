@@ -12,7 +12,7 @@
 
 6. https://wokwi.com/projects/334980718148977235 with potentiometer<br>
 
-7. https://wokwi.com/projects/335065524562035283 using for loop<br>
+7. https://wokwi.com/projects/335065524562035283 without potentiometer for loop<br>
 
 8. https://wokwi.com/projects/335066367161008723 buzzer<br>
 
