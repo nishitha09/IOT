@@ -19,3 +19,5 @@
 9.https://wokwi.com/projects/335071065475646035 buzzer with pushbutton<br>
 
 10.https://wokwi.com/projects/335071416477024850 ultrasonic<br>
+
+11.https://wokwi.com/projects/335605708330369620 ultrasonic sensor with buzzer<br>
