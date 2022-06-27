@@ -8,13 +8,13 @@
 
 4.LCD: https://wokwi.com/projects/334978799543255635<br>
 
-5. Servo: https://wokwi.com/projects/334980150211904084<br>
+5.Servo: https://wokwi.com/projects/334980150211904084<br>
 
-6. Servo with potentiometer: https://wokwi.com/projects/334980718148977235<br>
+6.Servo with potentiometer: https://wokwi.com/projects/334980718148977235<br>
 
-7. Servo without potentiometer using for loop: https://wokwi.com/projects/335065524562035283<br>
+7.Servo without potentiometer using for loop: https://wokwi.com/projects/335065524562035283<br>
 
-8. Buzzer: https://wokwi.com/projects/335066367161008723<br>
+8.Buzzer: https://wokwi.com/projects/335066367161008723<br>
 
 9.Buzzer with pushbutton: https://wokwi.com/projects/335071065475646035<br>
 
