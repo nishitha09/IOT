@@ -23,3 +23,5 @@
 11.Ultrasonic sensor with buzzer: https://wokwi.com/projects/335605708330369620<br>
 
 12.Ultrasonic sensor with buzzer+led: https://wokwi.com/projects/335612830665409107<br>
+
+13.Potentiometer with led: https://wokwi.com/projects/335701627023393363<br>
