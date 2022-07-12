@@ -32,3 +32,5 @@ ESP:<br>
 1.ESP32 LED: https://wokwi.com/projects/336967816657764947<br>
 
 2.ESP32 3 LED: https://wokwi.com/projects/336968385886683730<br>
+
+3.ESP32 RGB LED: https://wokwi.com/projects/336879976249819732<br>
