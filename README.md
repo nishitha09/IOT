@@ -54,3 +54,5 @@
 5.LDR: https://wokwi.com/projects/341409340583838292<br>
 
 6.LDR+LED:https://wokwi.com/projects/341411299501015634<br>
+
+7.IR RECEIVER+LED:https://wokwi.com/projects/341411911883031124<br>
