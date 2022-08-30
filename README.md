@@ -46,3 +46,5 @@
 2.ESP32 3 LED: https://wokwi.com/projects/336968385886683730<br>
 
 3.ESP32 RGB LED: https://wokwi.com/projects/336879976249819732<br>
+
+4. DHT22 : https://wokwi.com/projects/341407918231388756 
