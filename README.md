@@ -52,3 +52,5 @@
 4.DHT22 : https://wokwi.com/projects/341407918231388756<br>
 
 5.LDR: https://wokwi.com/projects/341409340583838292<br>
+
+6.LDR+LED:https://wokwi.com/projects/341411299501015634<br>
