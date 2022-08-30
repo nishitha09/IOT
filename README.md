@@ -7,6 +7,8 @@
 
 3.Arduino RGB LED: https://wokwi.com/projects/334977870850949716<br>
 
+4.led chaser: https://wokwi.com/projects/341408668122612307<br>
+
 # LCD:
 
 4.LCD: https://wokwi.com/projects/334978799543255635<br>
